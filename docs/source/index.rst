@@ -1,9 +1,9 @@
-.. bot18xxgames documentation master file, created by
+.. hello-world documentation master file, created by
    sphinx-quickstart on Fri Feb 19 14:08:56 2021.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to bot18xxgames's documentation!
+Welcome to hello-world's documentation!
 ========================================
 
 .. toctree::

@@ -11,4 +11,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 Contact
 =======
-Please email clydeiii+discordbot@gmail.com with questions.
+Please email clydeiii+github@gmail.com with questions.
